@@ -2,6 +2,8 @@
 ![FireShot Capture 011 - OpenCV Project - ](https://user-images.githubusercontent.com/52392822/130013981-05289b10-444e-4f04-a0a8-7cd3143da17c.png)
 
 
+View Project LIVE: https://face-detection-application.vercel.app/
+
 This project based on Facial recognition and some analysis on face. This project uses some technologies and programming languages like-
 
     OpenCV
